@@ -8,7 +8,7 @@ The Amazon Kindle Ebooks  Search system where book specifications data is scrapp
 It will fetch data from the URLs mentioned and display :
 
 
-1. Image Url of the book.
+1.Image Url of the book.
 
 2.The title of the book.
 
